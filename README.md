@@ -1,5 +1,8 @@
-=======================================================================
-               AZURE'S COMFORT CORNER - LEGAL NOTICE
+<img src="https://azure.page.gd/minecraft/assets/acc_banner2.png" alt="Azure's Comfort Corner Logo" width="100%">
+
+
+--
+               AZURE'S COMFORT CORNER - LEGAL NOTICE --
 =======================================================================
 
 Copyright (c) 2026 Azure's Comfort Corner The compilation,
@@ -10,8 +13,8 @@ to their respective creators and are used under their specified
 licenses.
 =======================================================================
 
-=======================================================================
-               AZURE'S COMFORT CORNER - SYSTEM REQUIREMENTS
+--
+           AZURE'S COMFORT CORNER - SYSTEM REQUIREMENTS --
 =======================================================================
 
 To run the Azure's Comfort Corner modpack smoothly without performance lag, please ensure your launcher setup meets these specifications:
