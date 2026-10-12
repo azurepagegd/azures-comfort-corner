@@ -3,9 +3,9 @@
 
 --
                AZURE'S COMFORT CORNER - LEGAL NOTICE --
--======================================================================-
+======================================================================
 
-Copyright (c) 2026 Azure's Comfort Corner The compilation,
+- Copyright (c) 2026 Azure's Comfort Corner The compilation,
 custom configurations, scripts, and branding of this modpack
 are protected by copyright. All rights reserved. Individual
 assets, mods, and codebases included within this pack belong
