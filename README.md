@@ -3,7 +3,7 @@
 
 --
                AZURE'S COMFORT CORNER - LEGAL NOTICE --
-=======================================================================
+-======================================================================-
 
 Copyright (c) 2026 Azure's Comfort Corner The compilation,
 custom configurations, scripts, and branding of this modpack
